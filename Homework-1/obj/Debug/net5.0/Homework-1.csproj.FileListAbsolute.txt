@@ -1,0 +1,16 @@
+C:\Users\hsyna\Desktop\CA-Homework\C#-Projects\ConsoleApps\Homework-1\Homework-1\bin\Debug\net5.0\Homework-1.exe
+C:\Users\hsyna\Desktop\CA-Homework\C#-Projects\ConsoleApps\Homework-1\Homework-1\bin\Debug\net5.0\Homework-1.deps.json
+C:\Users\hsyna\Desktop\CA-Homework\C#-Projects\ConsoleApps\Homework-1\Homework-1\bin\Debug\net5.0\Homework-1.runtimeconfig.json
+C:\Users\hsyna\Desktop\CA-Homework\C#-Projects\ConsoleApps\Homework-1\Homework-1\bin\Debug\net5.0\Homework-1.runtimeconfig.dev.json
+C:\Users\hsyna\Desktop\CA-Homework\C#-Projects\ConsoleApps\Homework-1\Homework-1\bin\Debug\net5.0\Homework-1.dll
+C:\Users\hsyna\Desktop\CA-Homework\C#-Projects\ConsoleApps\Homework-1\Homework-1\bin\Debug\net5.0\Homework-1.pdb
+C:\Users\hsyna\Desktop\CA-Homework\C#-Projects\ConsoleApps\Homework-1\Homework-1\obj\Debug\net5.0\Homework-1.csproj.AssemblyReference.cache
+C:\Users\hsyna\Desktop\CA-Homework\C#-Projects\ConsoleApps\Homework-1\Homework-1\obj\Debug\net5.0\Homework-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsyna\Desktop\CA-Homework\C#-Projects\ConsoleApps\Homework-1\Homework-1\obj\Debug\net5.0\Homework-1.AssemblyInfoInputs.cache
+C:\Users\hsyna\Desktop\CA-Homework\C#-Projects\ConsoleApps\Homework-1\Homework-1\obj\Debug\net5.0\Homework-1.AssemblyInfo.cs
+C:\Users\hsyna\Desktop\CA-Homework\C#-Projects\ConsoleApps\Homework-1\Homework-1\obj\Debug\net5.0\Homework-1.csproj.CoreCompileInputs.cache
+C:\Users\hsyna\Desktop\CA-Homework\C#-Projects\ConsoleApps\Homework-1\Homework-1\obj\Debug\net5.0\Homework-1.dll
+C:\Users\hsyna\Desktop\CA-Homework\C#-Projects\ConsoleApps\Homework-1\Homework-1\obj\Debug\net5.0\refint\Homework-1.dll
+C:\Users\hsyna\Desktop\CA-Homework\C#-Projects\ConsoleApps\Homework-1\Homework-1\obj\Debug\net5.0\Homework-1.pdb
+C:\Users\hsyna\Desktop\CA-Homework\C#-Projects\ConsoleApps\Homework-1\Homework-1\obj\Debug\net5.0\Homework-1.genruntimeconfig.cache
+C:\Users\hsyna\Desktop\CA-Homework\C#-Projects\ConsoleApps\Homework-1\Homework-1\obj\Debug\net5.0\ref\Homework-1.dll
